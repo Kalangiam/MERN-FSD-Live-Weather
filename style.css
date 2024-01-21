@@ -1,0 +1,44 @@
+body {
+    background-color: #111927;
+    background-image: 
+        radial-gradient(at 47% 33%, hsl(23.43, 77%, 40%) 0, transparent 59%), 
+        radial-gradient(at 82% 65%, hsl(228.00, 7.000000000000001%, 24%) 0, transparent 55%);
+}
+#title{
+    color:white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+
+#country-name{
+    background-color: black;
+    color:whitesmoke;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+ 
+
+.card{
+   
+    padding:2px;
+    border:2px solid black;
+    background-color: #fafafa;
+}
+
+.card-image{
+    display:flex;
+    overflow: hidden;
+    padding:5px;
+}
+
+.row{
+    background-color: #0c0908;
+    background-image: 
+        radial-gradient(at 47% 33%, hsl(22.22, 63%, 37%) 0, transparent 59%), 
+        radial-gradient(at 82% 65%, hsl(217.50, 33%, 8%) 0, transparent 55%);
+}
+
+.btn{
+    background-image:  radial-gradient(at 47% 33%, hsl(23.43, 77%, 40%) 0, transparent 59%), 
+    radial-gradient(at 82% 65%, hsl(228.00, 7.000000000000001%, 24%) 0, transparent 55%);
+}
